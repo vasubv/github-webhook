@@ -1,2 +1,4 @@
 # public_rep
-Pubic Repository
+Public Repository
+
+This is a public repository
