@@ -13,4 +13,4 @@ Build Trigger:
 
 GIT CONFIGURATION
 Create a webhook.
-Payload :
+Payload : http://localhost:8080/github-webhook/
