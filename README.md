@@ -1,4 +1,3 @@
-# public_rep
 JENKINS JOB : 04_GIT_Webhook
 ==============================================
 I have a git-webhook created in GIT, so any commits here to the master will trigger the corresponding job in Jenkins 
