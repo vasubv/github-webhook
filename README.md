@@ -1,7 +1,6 @@
 JENKINS JOB : 04_GIT_Webhook
 ==============================================
-I have a git-webhook created in GIT, so any commits here to the master will trigger the corresponding job in Jenkins 
-that has the following setting:
+I have a git-webhook created in GIT, so any commits here to the master will trigger the corresponding jobs in Jenkins that have this webhook
 ==============================================
 JENKINS CONFIGURATION :
 Build Trigger: "GitHub hook trigger for GITSCM polling" - Checked
